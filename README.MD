@@ -1,4 +1,9 @@
-### 🏃‍♂️ Get Started
+### 🏃‍ Get Started
+
+# Install `pnpm` if you haven't 😃
+```bash
+npm install -g pnpm
+```
 
 ```bash
 # Install dependencies
