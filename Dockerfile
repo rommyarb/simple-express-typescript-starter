@@ -4,7 +4,7 @@ FROM node:18
 WORKDIR /app
 
 COPY package.json ./
-COPY package-lock.json ./
+COPY pnpm-lock.yaml ./
 
 RUN pnpm install --silent
 
