@@ -1,11 +1,9 @@
 ### 🏃‍ Get Started
 
+```bash
 # Install `pnpm` if you haven't 😃
-```bash
 npm install -g pnpm
-```
 
-```bash
 # Install dependencies
 pnpm install
 
