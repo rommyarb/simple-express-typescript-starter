@@ -10,6 +10,9 @@ pnpm install
 # Develop
 pnpm dev
 
+# Build
+pnpm build
+
 # Start production
 pnpm start
 ```
