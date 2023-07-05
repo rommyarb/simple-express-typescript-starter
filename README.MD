@@ -2,11 +2,11 @@
 
 ```bash
 # Install dependencies
-yarn install
+pnpm install
 
 # Develop
-yarn dev
+pnpm dev
 
 # Start production
-yarn start
+pnpm start
 ```

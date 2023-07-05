@@ -3,8 +3,8 @@ const app = express()
 app.use(express.json())
 
 app.get('/', (req: Request, res: Response) => {
-  console.log('params:', req.params)
-  console.log('query:', req.query)
+  // console.log('params:', req.params)
+  // console.log('query:', req.query)
   res.send('🌏 Hello world!')
 })
 
